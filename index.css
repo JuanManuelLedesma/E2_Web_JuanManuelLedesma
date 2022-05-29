@@ -26,3 +26,9 @@ nav{
 img{
     width: 15%;
 }
+
+@media (max-width: 1024px){
+    nav{
+        width: 50%;
+    }
+}
